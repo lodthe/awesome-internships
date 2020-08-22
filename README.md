@@ -15,6 +15,7 @@ Use this repo to find relevant information about tech internships!
 
 - [Summer 2021 Internships](https://github.com/Pitt-CSC/Summer2021-Internships)
 - [2021 New Grad Applications](https://github.com/Pitt-CSC/NewGrad-2021)
+- [Relevant levels.fyi internships list](https://www.levels.fyi/internships/)
 
 ## How to write a CV
 
