@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested tools, apps or methods should be awesome and should have made you more productive.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[Resource](link) &mdash; Description.`
+- Use the following format: `- [Resource](link) - Description.`
 - If a resource is written not in English, add `[In <language>]` before the resource name.
 - Additions should be added to the bottom of the relevant category.
 - New categories, or improvements to the existing categorization are welcome.
