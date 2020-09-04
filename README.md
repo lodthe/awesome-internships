@@ -1,6 +1,12 @@
 # Awesome Internships [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of tech internships resources ✨
+> A curated list of tech internships resources ✨
+
+The repository contains useful information for everyone who is looking for a tech internship! 
+
+**Feel free to improve this list by [contributing](CONTRIBUTING.md).**
+
+[Russian version](README-RUSSIAN.md)
 
 ## Contents
 
@@ -16,28 +22,26 @@ A curated list of tech internships resources ✨
 
 ## General
 
-- [Zero to Offer by the Pitt Computer Science Club](https://pittcs.wiki/zero-to-offer/) - A part of the course (by the Pitt Computer Science Club) that will help you land offers from top tech companies.
-- [[In Russian] FAANG Interview tips](https://docs.google.com/document/d/1RKzJA7UHj3UKMFxK4Bluy-gB7Sf2fk0mUlCPs76Z07k/edit) - A big curated list and FAQ in Russian.
+- [Zero to Offer by the Pitt Computer Science Club](https://pittcs.wiki/zero-to-offer/) - A part of the course that will help you land offers from top tech companies.
 
 ## Where to apply
 
 - [Summer 2021 Internships](https://github.com/Pitt-CSC/Summer2021-Internships) - A curated list of 2021 internships.
 - [2021 New Grad Applications](https://github.com/Pitt-CSC/NewGrad-2021) - A curated list of 2021 new grad roles.
 - [Relevant levels.fyi internships list](https://www.levels.fyi/internships/) - A collection of intern roles with salaries.
-- [IT-internships in Russia](https://github.com/MrHakimov/russian-internships) - A list of tech internships in Russian companies.
 
 
 ## How to write CV
 
 - [r/cscareerquestions FAQ](https://www.reddit.com/r/cscareerquestions/wiki/faq_resumes) - Tips from CS Career Questions.
-- [Cracking the coding interview tips](https://www.notion.so/lodthe/Cracking-the-coding-interview-tips-301b9b8df5bd422aa9dbf37604afe9e9) - Advice from the legendary book for interviews preparation.
+- [Cracking the coding interview tips](https://www.notion.so/lodthe/Cracking-the-coding-interview-tips-301b9b8df5bd422aa9dbf37604afe9e9) - Advice from the legendary book about interviews.
 - [This Is What A GOOD Resume Should Look Like](https://www.careercup.com/resume) - What to include in CV.
 - [Create Your Resume for Google: Tips and Advice](https://www.youtube.com/watch?v=BYUy1yvjHxE&feature=youtu.be) - A video from Google recruiters.
 - [Article on Zety](https://zety.com/blog/computer-science-resume) - How to write each section in CV.
 
 ## CV examples
 
-- [Overleaf gallery](https://ru.overleaf.com/gallery/tagged/cv) - A collection of well-structured CV. TeX sources are given and you can edit them in the OverLeaf online editor.
+- [Overleaf gallery](https://ru.overleaf.com/gallery/tagged/cv) - A collection of well-structured CV. You can edit them in the OverLeaf online TeX editor.
 - [Resumehub](https://resumehub.org) - Choose a company and a role and find an appropriate template.
 - [Kickresume](https://www.kickresume.com/en/help-center/software-engineering-resume-samples) - A collection of awesome resumes with role and company description.
 - [Zety CV Templates](https://zety.com/cv-templates) - Just pick one of 18+ CV templates, fill it out, and download in seconds.
@@ -53,10 +57,8 @@ A curated list of tech internships resources ✨
 
 - [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions) - A subreddit where people create advice threads to get any feedback.
 - [CS Career Hackers](https://discord.gg/6EyEDKk) - A discord channel for tech internships and jobs discussion.
-- [[In Russian] Resume review](https://t.me/resume_review) - Send your CV to this Telegram group to get feedback on it.
-- [[In Russian] sns_internships](https://t.me/sns_internships) - A Russian Telegram chat with internships discussion.
 
 ## Where to get an employee referral
 
 - [Repher](https://repher.me) - Create a referral request for no more than 8 companies.
-- [Refsy](https://refsy.io) - Sign up to join the engineering community for free as a job seeker or referrer.
+- [Refsy](https://refsy.io) - Sign up to join the engineering community as a job seeker or referrer.
