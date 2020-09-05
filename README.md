@@ -4,7 +4,7 @@
 
 The repository contains useful information for everyone who is looking for a tech internship! 
 
-**Feel free to improve this list by [contributing](CONTRIBUTING.md).**
+Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 [Russian version](README-RUSSIAN.md)
 
@@ -17,6 +17,8 @@ The repository contains useful information for everyone who is looking for a tec
 - [CV analyzers](#cv-analyzers)
 - [Feedback on your CV](#feedback-on-your-cv)
 - [Where to get an employee referral](#where-to-get-an-employee-referral)
+- [Practice platforms](#practice-platforms)
+- [Mock interview platforms](#mock-interview-platforms)
 
 ---
 
@@ -62,3 +64,10 @@ The repository contains useful information for everyone who is looking for a tec
 
 - [Repher](https://repher.me) - Create a referral request for no more than 8 companies.
 - [Refsy](https://refsy.io) - Sign up to join the engineering community as a job seeker or referrer.
+
+## Practice platforms
+
+- [LeetCode](https://leetcode.com) - Practice your coding skills by solving more than 800+ questions.
+- [HackerRank](https://www.hackerrank.com) - Companies host coding challenges there.
+
+## Mock interview platforms
