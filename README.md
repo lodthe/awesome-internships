@@ -59,6 +59,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 - [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions) - A subreddit where people create advice threads to get any feedback.
 - [CS Career Hackers](https://discord.gg/6EyEDKk) - A discord channel for tech internships and jobs discussion.
+- [TopCV](https://www.topcv.com) - Get detailed feedback from experts.
 
 ## Where to get an employee referral
 
