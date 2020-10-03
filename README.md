@@ -72,3 +72,5 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 - [HackerRank](https://www.hackerrank.com) - Companies host coding challenges there.
 
 ## Mock interview platforms
+
+- [Pramp](https://www.pramp.com) - Practice mock interviews with friends and professionals.
