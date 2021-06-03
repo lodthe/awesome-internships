@@ -28,7 +28,7 @@ Feel free to improve this list by [contributing](CONTRIBUTING.md).
 
 ## Where to apply
 
-- [Summer 2021 Internships](https://github.com/Pitt-CSC/Summer2021-Internships) - A curated list of 2021 internships.
+- [Summer 2021 Internships](https://github.com/Pitt-CSC/Summer2022-Internships) - A curated list of 2022 internships.
 - [2021 New Grad Applications](https://github.com/Pitt-CSC/NewGrad-2021) - A curated list of 2021 new grad roles.
 - [Relevant levels.fyi internships list](https://www.levels.fyi/internships/) - A collection of intern roles with salaries.
 
