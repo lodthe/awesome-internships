@@ -2,11 +2,7 @@
 
 > A curated list of tech internships resources ✨
 
-The repository contains useful information for everyone who is looking for a tech internship! 
-
-Feel free to improve this list by [contributing](CONTRIBUTING.md).
-
-[Russian version](README-RUSSIAN.md)
+The repository contains useful information for everyone who is looking for a tech internship!
 
 ## Contents
 
