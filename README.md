@@ -28,6 +28,7 @@ The repository contains useful information for everyone who is looking for a tec
 - [Summer 2024 Internships](https://github.com/pittcsc/Summer2022-Internships) - A curated list of internships (by SimplifyJobs).
 - [New Grad Applications](https://github.com/SimplifyJobs/New-Grad-Positions) - A curated list of new grad roles (by SimplifyJobs).
 - [Relevant levels.fyi internships list](https://www.levels.fyi/internships/) - A collection of intern roles with salaries.
+- [EU Internships 2024](https://github.com/LorenzoLaCorte/european-tech-internships-2024) &mdash; A collection of tech internships around Europe.
 
 
 ## How to write CV
