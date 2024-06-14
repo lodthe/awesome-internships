@@ -50,6 +50,7 @@ The repository contains useful information for everyone who is looking for a tec
 
 - [Resume.io](https://resume.io/) - A platform for building a resume.
 - [Simplify](https://simplify.jobs/resume-builder) - AI resume builder designed for job seekers.
+- [CV Forge](https://www.cvforge.app/) - Responsive and intuitive resume builder.
 
 ## CV analyzers
 
