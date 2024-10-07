@@ -48,6 +48,7 @@ The repository contains useful information for everyone who is looking for a tec
 
 ## CV builders
 
+- [Resmume.com](https://resmume.com) - A free resume builder that can spot mistakes and suggest improvements.
 - [Resume.io](https://resume.io/) - A platform for building a resume.
 - [Simplify](https://simplify.jobs/resume-builder) - AI resume builder designed for job seekers.
 
