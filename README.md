@@ -50,6 +50,7 @@ The repository contains useful information for everyone who is looking for a tec
 
 - [Resume.io](https://resume.io/) - A platform for building a resume.
 - [Simplify](https://simplify.jobs/resume-builder) - AI resume builder designed for job seekers.
+- [TailoredCV.ai](https://tailoredcv.ai) - A smart CV tailoring platform that rewords your CV to match job descriptions or project requirements, helping you stand out without fabricating experiences.
 
 ## CV analyzers
 
